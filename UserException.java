@@ -41,11 +41,11 @@ class UserException
 			catch(Exception io)
 			{
 			}
-			
+
 		}
 		catch(Exception io)
 			{
 			}
-		
+
 	}
 }
