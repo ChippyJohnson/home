@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1517809585 source:d:\share\cglab\pointclipping.c
+	<stdio.h>
+	<graphics.h>
+
+1266078014 c:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1517809131 source:d:\share\cglab\lineclipping.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1517809453 source:d:\share\cglab\pendulum.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1517803537 source:d:\share\cglab\circlebresenhams.c
+	<stdio.h>
+	<graphics.h>
+
+1517803526 source:d:\share\cglab\house.c
+	<stdio.h>
+	<graphics.h>
+
+1517810452 source:d:\share\cglab\linebresenham.c
+	<stdio.h>
+	<graphics.h>
+
+1517811989 source:d:\share\cglab\ballbounce.c
+	<stdio.h>
+	<graphics.h>
+
+1518241565 source:d:\share\cglab\man_umbrella_rain.c
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+
+1518245980 source:d:\share\cglab\3dtransformation.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1519019121 source:d:\share\cglab\polygonclip.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1519020563 source:d:\share\cglab\polyclipana.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	<conio.h>
+
+1528002931 source:d:\education\programming\cglab\2dtransformation.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1266078014 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1522568739 source:d:\education\programming\cglab\ballbounce.c
+	<stdio.h>
+	<graphics.h>
+
+1528035034 source:d:\education\programming\cglab\pendulum.c
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
